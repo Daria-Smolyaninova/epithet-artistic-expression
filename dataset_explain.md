@@ -114,11 +114,11 @@ XIX века: количественный аспект» (НИУ ВШЭ, 2026; 
 
 Примеры:
 
-*Плыл <div type='epithet_phrase'>густой туман</div> по <div type='epithet_phrase'>извилистым скалам</div>.*
+`Плыл <div type='epithet_phrase'>густой туман</div> по <div type='epithet_phrase'>извилистым скалам</div>.`
 
 или
 
-*<div type='epithet_phrase'>В знойный, ясный июльский день</div> он отправился в путь.*
+`<div type='epithet_phrase'>В знойный, ясный июльский день</div> он отправился в путь.`
 
 
 ## Воспроизводимость
